@@ -1,4 +1,3 @@
-Here's a sample README file for your JavaScript quiz application:
 
 # Math Quiz Application
 
@@ -55,6 +54,4 @@ This project is open-source and available under the MIT License.
 - Inspired by various online quiz applications.
 - Thanks to all contributors and developers who have shared their knowledge and resources.
 
----
 
-Feel free to modify any sections as needed!
