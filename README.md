@@ -3,6 +3,7 @@
 
 ## Overview
 This is a simple math quiz application that randomly generates arithmetic problems and provides multiple-choice answers. Users can select an answer, and the application will indicate whether the selection is correct or wrong.
+Live Link - https://thanushtanu.github.io/Maths_quiz/
 
 ## Features
 - Randomly generates two numbers and an arithmetic operation (+, -, *, /).
